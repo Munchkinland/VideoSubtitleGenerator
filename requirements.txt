@@ -4,3 +4,4 @@ kivy
 Pillow
 ffmpeg-python
 transformers
+pysrt
