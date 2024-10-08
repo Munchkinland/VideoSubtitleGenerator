@@ -1,0 +1,6 @@
+whisper
+moviepy
+kivy
+Pillow
+ffmpeg-python
+transformers
